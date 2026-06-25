@@ -1,2 +1,0 @@
-Exit Trade Id,Column,Size,Entry Timestamp,Avg Entry Price,Entry Fees,Exit Timestamp,Avg Exit Price,Exit Fees,PnL,Return,Direction,Status,Position Id
-0,0,33.613530112719786,2025-11-13 21:00:00+00:00,297.202048,9.990009990009991,2025-11-27 21:00:00+00:00,304.413336,10.232406836349487,-262.6192631658553,-0.026288188242902112,Short,Closed,0
